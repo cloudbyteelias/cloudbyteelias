@@ -3,7 +3,7 @@
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
 			
-@font-face {font-family: pixel_font;src: url(https://github.com/cloudbyteelias/cloudbyteelias/blob/main/fonts/prstartk.ttf) format('opentype');}
+@font-face {font-family: pixel_font;src: url(https://github.com/cloudbyteelias/cloudbyteelias/blob/main/fonts/prstartk.ttf) format('svg');}
 
 
 
