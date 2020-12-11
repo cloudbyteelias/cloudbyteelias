@@ -12,6 +12,14 @@
 </div>
 
 
+<div align="center">
+	<br>
+		<img src="https://www.pngkey.com/png/full/78-782371_emmanuelarce-doom-guy-walking-gif.png" width="800" height="400">
+	</a>
+	<br>
+</div>
+
+
 <div>
 <a href="https://github.com/cloudbyteelias/cloudbyteelias">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cloudbyteelias&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
