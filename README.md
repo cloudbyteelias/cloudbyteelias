@@ -2,19 +2,9 @@
 <div> 
 
 
-
 <div align="center">
 	<br>
-	<a href="https://github.com/cloudbyteelias/cloudbyteelias/blob/main/Efect.svg">
-		<img src="Efect.svg" width="800" height="400">
-	</a>
-	<br>
-</div>
-
-
-<div align="center">
-	<br>
-		<img src="https://www.pngkey.com/png/full/78-782371_emmanuelarce-doom-guy-walking-gif.png" width="800" height="400">
+		<img src="https://www.pngkey.com/png/full/78-782371_emmanuelarce-doom-guy-walking-gif.png" width="800" height="600">
 	</a>
 	<br>
 </div>
