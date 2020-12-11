@@ -106,9 +106,7 @@ h1::after{
     content: "CRY AND CODING";
 }
  
- h1::after{
-	content: "CRY AND CODING";
- }
+ 
 				
 				
 			</style>
