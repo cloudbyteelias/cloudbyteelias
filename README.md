@@ -4,7 +4,7 @@
 
 <div align="center">
 	<br>
-		<img src="https://www.pngkey.com/png/full/78-782371_emmanuelarce-doom-guy-walking-gif.png" width="800" height="600">
+		<img src="https://www.pngkey.com/png/full/78-782371_emmanuelarce-doom-guy-walking-gif.png" width="800" height="800">
 	</a>
 	<br>
 </div>
