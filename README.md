@@ -5,7 +5,7 @@
 
 <div align="center">
 	<br>
-		<img src="https://lh3.googleusercontent.com/proxy/XZu-66M3WBoV46OHALQxbFplyhGgKBUP-MI0P5SSGGyTn_tSl0Q71QzIuqDcXQ7S9qKJqW3qCcVdU9aZqh8rcw" width="665" height="376">
+		<img src="https://lh3.googleusercontent.com/proxy/XZu-66M3WBoV46OHALQxbFplyhGgKBUP-MI0P5SSGGyTn_tSl0Q71QzIuqDcXQ7S9qKJqW3qCcVdU9aZqh8rcw" width="618" height="618">
 	</a>
 	<br>
 </div>
