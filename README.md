@@ -5,7 +5,7 @@
 
 <div align="center">
 	<br>
-		<img src="https://lh3.googleusercontent.com/proxy/XZu-66M3WBoV46OHALQxbFplyhGgKBUP-MI0P5SSGGyTn_tSl0Q71QzIuqDcXQ7S9qKJqW3qCcVdU9aZqh8rcw" width="618" height="618">
+		<img src="https://64.media.tumblr.com/4564a345b77ebe3cf4df2feae615a3b2/tumblr_pex1hakTQR1w4t58uo5_540.gifv" width="500" height="313">
 	</a>
 	<br>
 </div>
