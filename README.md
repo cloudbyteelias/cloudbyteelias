@@ -5,7 +5,7 @@
 
 <div align="center">
 	<br>
-		<img src="https://64.media.tumblr.com/baa88a2e40d2c16b0868203776e66328/tumblr_nzc79vt9IF1qayyq1o1_500.gifv" width="540" height="540">
+		
 	</a>
 	<br>
 </div>
