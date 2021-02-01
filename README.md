@@ -19,7 +19,7 @@
 
 <br>
 <a href="https://github.com/cloudbyteelias/cloudbyteelias">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudbyteelias&hide=java,php,&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudbyteelias&hide=java,php,javascript&theme=radical" />
 </a>
 
 </div>
