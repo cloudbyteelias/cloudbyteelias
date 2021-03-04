@@ -22,7 +22,7 @@
 
 <br>
 <a href="https://github.com/cloudbyteelias/cloudbyteelias">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudbyteelias&hide=java,php,javascript,css,python,lua,html&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudbyteelias&layout=compact&hide=java,php,javascript,css,python,lua,html&theme=radical" />
 </a>
 
 </div>
