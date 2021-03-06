@@ -21,7 +21,7 @@
 <div>
 
 <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudbyteelias&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudbyteelias&layout=compact&theme=radical&hide=css,html,java,php" />
 </div>
 
 
