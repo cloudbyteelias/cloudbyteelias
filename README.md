@@ -21,10 +21,7 @@
 <div>
 
 <br>
-<a href="https://github.com/cloudbyteelias/cloudbyteelias">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudbyteelias&layout=compact&theme=radical" />
-</a>
-
 </div>
 
 
