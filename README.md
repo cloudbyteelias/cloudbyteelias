@@ -10,7 +10,9 @@
 	<br>
 		
 	
-[<img src="https://wiki.gentoo.org/images/thumb/b/b8/Larry-nefarius-v2.svg/300px-Larry-nefarius-v2.svg.png">]	
+
+
+<img src="https://wiki.gentoo.org/images/thumb/b/b8/Larry-nefarius-v2.svg/300px-Larry-nefarius-v2.svg.png">	
 	
 	
 	
