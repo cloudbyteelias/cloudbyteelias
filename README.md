@@ -7,7 +7,7 @@
 
 
 <div align="center">
-	<br>
+	<img src="https://github.com/cloudbyteelias/cloudbyteelias.github.io/blob/main/Art/Logo.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
 			
 </div>
 
