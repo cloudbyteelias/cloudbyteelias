@@ -7,7 +7,7 @@
 
 
 <div align="center">
-	width:100px;"/>
+	
 			
 </div>
 
